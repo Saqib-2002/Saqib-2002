@@ -1,48 +1,9 @@
-Hi, I'm Saqib! 👋
-Welcome to my GitHub profile! 🚀 I'm a passionate React Developer and aspiring entrepreneur with a focus on web development, dropshipping, and e-commerce solutions.
+Hi there 👋
+I’m Saqib, a Frontend Developer and aspiring entrepreneur with a passion for building modern, responsive web applications and exploring innovative technologies. Proficient in ReactJS, Node.js, and the MERN stack, I’m also diving into e-commerce solutions and dropshipping to expand my horizons. Always eager to learn and grow, I focus on delivering seamless user experiences and scalable systems. Let’s create something extraordinary together!
 
-👨‍💻 About Me
-🔭 Currently working on an e-commerce website with Stripe and CJ Dropshipping integration.
-🏆 Winner of an intra-college Hackathon: built a College Canteen System.
-🎥 Run a YouTube channel (Saqsa) sharing laptop reviews, tech tips, and business insights.
-💡 Exploring ways to combine technology and business to build a sustainable future.
-📚 Learning and practicing DSA, MERN stack, and theory-based interview prep to land my dream job.
-🔨 My Skills
-Programming Languages
-JavaScript
-Python
-Web Development
-React.js (Frontend)
-Node.js (Backend)
-Express.js (REST APIs)
-MongoDB (Database)
-Tools & Platforms
-Git & GitHub
-Stripe API (Payments)
-CJ Dropshipping API
-Other Skills
-Team Collaboration: Worked on full-stack projects with teammates.
-Fast Learner: Focused on solving real-world problems with tech solutions.
-🌟 Projects
-E-Commerce Website
-Building a modern, fast, and secure platform for home decor dropshipping.
-
-Blog Website
-A collaborative project featuring Google Drive integration for storing content.
-
-College Canteen System
-Hackathon-winning app for managing canteen orders efficiently.
-
-Portfolio Website
-Showcasing my skills, projects, and achievements in a responsive portfolio.
-
-🌱 Current Focus
-Enhancing my DSA and core computer science concepts (OS, OOPs, DBMS, CN).
-Practicing for technical interviews and improving English for HR discussions.
-Growing my dropshipping business while pursuing a career in programming.
-📫 Let's Connect
-📧 Email: your-email@example.com
-🌐 LinkedIn: Saqib
-🎥 YouTube: Saqsa
-Thanks for visiting my profile! Always open to collaboration and learning opportunities. Feel free to reach out! 😊
-
+My Skills
+<p align="center"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" /> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" /> <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" /> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /> <img src="https://img.icons8.com/fluency/48/000000/api-settings.png" alt="API Integration" /> <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe Payments" /> </p>
+Some More Data... 😄
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" /> </p>
+Let’s Connect!
+<p align="center"> <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/></a> <a href="https://youtube.com/channel/your-channel"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a> </p>
